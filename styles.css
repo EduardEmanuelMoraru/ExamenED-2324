@@ -1,8 +1,9 @@
-/* Estilos base */
+/* Estilos cambiados */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    font-family: 'Helvetica', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    padding: 10px;
 }
 
 header {
@@ -15,7 +16,7 @@ header {
 
 footer {
     background-color: #333;
-    color: white;
+    color: #007bff;
     padding: 1em;
     text-align: center;
 }
